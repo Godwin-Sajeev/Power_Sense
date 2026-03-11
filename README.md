@@ -318,3 +318,12 @@ Made for smarter, greener campuses
 **Star this repo if you find it useful!**
 
 </div>
+
+---
+
+```
+Copyright (c) 2026 Godwin
+
+All rights reserved.
+This code may not be copied, modified, or used without permission.
+```
