@@ -311,12 +311,6 @@ power_sense/
 
 ---
 
-## License
-
-This project is licensed under the **ISC License**.
-
----
-
 <div align="center">
 
 Made for smarter, greener campuses
